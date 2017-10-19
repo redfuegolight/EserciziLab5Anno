@@ -1,0 +1,37 @@
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+\\LINTRI-SERVER\peruginialessio.tecn\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+\\LINTRI-SERVER\peruginialessio.tecn\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+\\LINTRI-SERVER\peruginialessio.tecn\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+\\LINTRI-SERVER\peruginialessio.tecn\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+\\LINTRI-SERVER\peruginialessio.tecn\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.csprojResolveAssemblyReference.cache
+D:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+D:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+D:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+D:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.csprojResolveAssemblyReference.cache
+D:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+D:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+F:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+F:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+F:\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+F:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.csprojResolveAssemblyReference.cache
+F:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+F:\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+E:\Progetti2017\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe.config
+E:\Progetti2017\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.exe
+E:\Progetti2017\Sms\SmsServer\SmsServer\bin\Debug\SmsServer.pdb
+E:\Progetti2017\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.csprojResolveAssemblyReference.cache
+E:\Progetti2017\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.exe
+E:\Progetti2017\Sms\SmsServer\SmsServer\obj\Debug\SmsServer.pdb
+E:\Progetti2017\Sms\SmsServer\SmsServer\bin\Debug\Colorful.Console.dll
+E:\Progetti2017\Sms\SmsServer\SmsServer\bin\Debug\Colorful.Console.pdb

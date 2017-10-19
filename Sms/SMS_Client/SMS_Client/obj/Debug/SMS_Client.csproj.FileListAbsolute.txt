@@ -1,0 +1,54 @@
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Form1.resources
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+c:\users\alessioportatile\documents\visual studio 2015\Projects\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Form1.resources
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+Y:\Quinta\MultiThread\ServerClient\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+D:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+D:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+D:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Form1.resources
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+D:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
+F:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+F:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+F:\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
+F:\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.FrmPrincipale.resources
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.FrmPrincipale.resources
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+C:\Users\Ale\Documents\Visual Studio 2017\Projects\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe.config
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.exe
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\bin\Debug\SMS_Client.pdb
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csprojResolveAssemblyReference.cache
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.FrmPrincipale.resources
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.Properties.Resources.resources
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.csproj.GenerateResource.Cache
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.exe
+E:\Progetti2017\Sms\SMS_Client\SMS_Client\obj\Debug\SMS_Client.pdb
